@@ -1,4 +1,4 @@
 # Prueba
 prueba de comandos de github
-#colaborador
+#colaboradores
 felipe alonso
